@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h3>Step 1: Setup Resources in Azure</h3>
 
 - Create two virtual machines
-  - If you need help creating your virtual machines, please see my tutorial [here](hhttps://github.com/bernardtabiri/virtualmachine)
+  - If you need help creating your virtual machines, please see my tutorial [here](https://github.com/bernardtabiri/virtualmachine)
     - 1st virtual machine will be the Domain Controller
        - Name: DC-1
        - Image: Windows Server 2022
